@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sejal1127/Sidebar_DROPDOWN.git/static/css/main.33bd9933.css",
+    "main.js": "/sejal1127/Sidebar_DROPDOWN.git/static/js/main.88d0727b.js",
+    "static/js/453.a50a08ed.chunk.js": "/sejal1127/Sidebar_DROPDOWN.git/static/js/453.a50a08ed.chunk.js",
+    "index.html": "/sejal1127/Sidebar_DROPDOWN.git/index.html",
+    "main.33bd9933.css.map": "/sejal1127/Sidebar_DROPDOWN.git/static/css/main.33bd9933.css.map",
+    "main.88d0727b.js.map": "/sejal1127/Sidebar_DROPDOWN.git/static/js/main.88d0727b.js.map",
+    "453.a50a08ed.chunk.js.map": "/sejal1127/Sidebar_DROPDOWN.git/static/js/453.a50a08ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33bd9933.css",
+    "static/js/main.88d0727b.js"
+  ]
+}
