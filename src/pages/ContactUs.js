@@ -1,0 +1,14 @@
+// Filename - pages/ContactUs.js
+
+import React from "react";
+
+const Contact = () => {
+	return (
+		<div className="contact">
+			<h1>Axiom Tech Guru Pvt. Ltd. Contact us</h1>
+		</div>
+	);
+};
+
+export default Contact;
+ 
